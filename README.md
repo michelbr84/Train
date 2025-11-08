@@ -1,33 +1,34 @@
 # Title
-The Dream Train
+The Frog Who Wanted to Sing
 
 ## Logline / Short Description
-A magical train visits children at night, taking them to different dream worlds—each car is a new adventure where imagination and small acts of courage help a shy child face fears and return home more confident.
+A cheerful, tone‑deaf frog named Freddy dreams of singing in the forest's annual contest. With the help of friends Rosie and Luna, he practices, faces doubt and ridicule, and ultimately discovers that authenticity and perseverance matter more than perfection.
 
 ## Theme and Moral
-- Theme: Imagination and courage.  
-- Moral: Small acts of imagination and bravery help children face fears, share their gifts, and grow more confident in the real world.
+- Theme: Perseverance; being true to yourself.
+- Moral: Perseverance and being true to yourself are more important than trying to be perfect for others. Your unique voice has value.
 
 ## Target Age & Genre
-- Target age: 6–8  
-- Genre: Fantasy / Adventure (children's picture book / early reader)
+- Target age: 6–8
+- Genre: Humorous animal fable / Picture book
+- Intended format: Picture book (simple conflict, clear moral, suitable for early readers and read‑alouds)
 
 ## Story Summary
 
 ### Beginning
-Milo, a quiet seven-year-old who sketches fantastical creatures but keeps his drawings hidden, discovers a glowing sketchbook left by his art teacher, Ms. Wren. One night, a distant whistle calls and the Dream Train appears at his window. Luna, the warm, whimsical conductor, invites him aboard. Pip, a tiny talking fox who lives on the train, shows Milo that each car opens into a different dream world tied to his creativity and fears.
+Freddy, a small green frog who loves melodies, hears about the annual Forest Singing Contest and dreams of performing. Though enthusiastic, Freddy is clearly tone‑deaf—his croaks come out off‑key. Encouraged by his friend Rosie and curious firefly Luna, he decides to try out.
 
 ### Main Conflict
-As Milo explores the dream cars—an upside-down library of forgotten stories, a garden of growing ideas, and a storm-car swirling with doubts—he becomes trapped in the storm-car. Forgotten fears threaten to keep him inside the dream. To restart the train and return home, Milo must confront his self-doubt, use his sketches as tools, and apply lessons learned from the other cars while accepting help from Pip and Luna.
+Freddy struggles to practice; other animals tease or doubt him, and the contest judge, Mr. Owl, seems unimpressed by sloppy singing. Freddy faces the choice to give up, try to sound exactly like others, or keep going in his own voice. He practices with Luna and Rosie, learning techniques but still singing differently. Freddy's perseverance is tested when he is left out of the main stage lineup and must decide whether to perform at the contest’s open‑mic pond or slip away quietly.
 
 ### Resolution
-Milo reaches the engine room and, by using a drawing from his glowing sketchbook to remember who he is, lights the Dream Lantern that powers the train. He awakens at dawn with renewed confidence, shares a drawing at school, and discovers that imagination plus small acts of courage helps him face real-life challenges.
+Freddy bravely performs at the open‑mic. His song is imperfect but full of heart and joy. The audience—initially puzzled—begins to smile, tapping along. Mr. Owl recognizes Freddy’s courage and invites him to sing again; the community applauds his authenticity. Freddy learns that persistence and being true to himself matter more than perfection. He gains confidence, new friends, and the pride of having shared his unique song.
 
 ## Main Characters
-- Milo (Main protagonist) — A curious, shy 7-year-old who loves drawing fantastical creatures but is afraid to share his art at school.  
-- Luna (Dream Conductor / Guide) — A warm, whimsical conductor with moonlit hair and a glowing lantern who invites children aboard and gently encourages them to explore dreams and find courage.  
-- Pip (Ally / Sidekick) — A tiny, clever talking fox who lives on the train; playful and resourceful, he nudges Milo toward bold choices with humor and quick thinking.  
-- Ms. Wren (Mentor — real world) — Milo’s patient art teacher who leaves him a mysterious glowing sketchbook that becomes his ticket to the Dream Train.
+- Freddy (Main protagonist) — A small, determined, and lovable green frog who is tone‑deaf but dreams of singing in the forest contest. Cheerful, persistent, and earnest; learns to value his unique voice.
+- Luna (Mentor / Friend) — A wise firefly who lights the way and offers gentle advice. Encouraging and calm; helps Freddy practice and see his own worth.
+- Rosie (Ally / Friend) — A friendly rabbit who loves music and applauds effort. Cheerful and supportive, she helps Freddy rehearse and boosts his confidence.
+- Mr. Owl (Antagonist-like obstacle / Judge) — The stern but fair contest judge who initially favors polished performances. He challenges Freddy but later recognizes courage and heart.
 
 ## Author
 Michel Duek
@@ -36,6 +37,6 @@ Michel Duek
 Ready
 
 ## Validation Notes
-- Target age group confirmed as 6–8 to match whimsical adventure, emotional growth, and picture-book/early-reader suitability.  
-- Emotional tone: warm, whimsical, and gently adventurous (not frightening) to fit the chosen age range.  
-- Format: assumed to be a picture book or early-reader with room for illustrations; the exact format was not specified by the author.
+- validation_01: Target age group (6–8) chosen because the concept fits early reader picture books with simple conflict and clear moral. If you prefer a different age (3–5 or 9–12), I can adjust tone, length, and complexity.
+- validation_02: Author name not provided; placeholder used. Provide an author name if you want one printed on the cover.
+- validation_03: Assumed format: picture book / humorous animal fable. If you intended a chapter book or middle‑grade story, I can expand plot complexity and character arcs.
